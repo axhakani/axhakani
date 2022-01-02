@@ -1,5 +1,5 @@
-## Hi, Anja here ##
-### Currently working as a UX Researcher at [Ura Design](http://https://ura.design// "Ura") ###
+## Hi, Anja here :purple_heart: ##
+### Currently working as a UX Researcher and SysAdmin at [Ura Design](http://https://ura.design// "Ura") ###
 Feel free to reach out at: xhakani.a@gmail.com <br>
 or at: anja@ura.deisgn
 #### Other social networks: 
@@ -14,6 +14,8 @@ My personal [website](https://axhakani.github.io/ "website") hosted on GitHub :-
 - CalyxOS Accessibility Audit <br>
 - Thunderbird PGP Encryption 
 </details>
+
+*Not as polished with the green dots down here ↓ but I'm working on it.* Thanks :grin: 
 
 
 <!---
