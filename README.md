@@ -6,7 +6,7 @@ or at: anja@ura.deisgn
 #### Other social networks: 
 [Twitter](https://twitter.com/anjaxhakani "twitter") <br>
 [LinkedIn](https://www.linkedin.com/in/anja-xhakani-0a78b718a/ "linkedin") <br>
-My personal [website](https://axhakani.github.io/ "website") hosted on GitHub :-)
+My personal [website](https://axhakani.github.io/ "website") hosted on GitHub :-) 
 
 <details>
 <summary>Projects I worked on recently:</summary>
