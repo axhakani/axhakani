@@ -1,4 +1,4 @@
-## Hi, Anja here :purple_heart: ##
+## Hi, Anja here :purple_heart: :rainbow: ##
 ### You can also call me njanja :blush: ###
 ### Currently working as a UX Researcher and SysAdmin at [Ura Design](http://https://ura.design// "Ura") ###
 Feel free to reach out at: xhakani.a@gmail.com <br>
