@@ -15,7 +15,6 @@ My [personal website](https://axhakani.github.io/ "website") hosted on GitHub :-
 - CalyxOS Accessibility Audit <br>
 - Thunderbird PGP Encryption 
 </details>
-dddwww
 
 *Not as polished with the green dots down here ↓ but I'm working on it.* Thanks :grin: 
 
