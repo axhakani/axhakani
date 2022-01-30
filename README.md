@@ -16,7 +16,7 @@ My [personal website](https://axhakani.github.io/ "website") hosted on GitHub :-
 - Thunderbird PGP Encryption 
 </details>
 
-*Not as polished with the green dots down here ↓ but I'm working on it.* Thanks :grin: 
+*Not as polished with the green dots down here ↓ but I'm working on it.* Thanks :grin: :octocat:
 
 
 <!---
