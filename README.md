@@ -1,7 +1,7 @@
 ## Hi, Anja here :purple_heart: :rainbow: ##
 ### You can also call me njanja :blush: ###
 ### Currently working as a UX Researcher and SysAdmin at [Ura Design](http://https://ura.design// "Ura") ###
-Feel free to reach out at: xhakani.a@gmail.com <br>
+Feel free to reach out at THE ONLY emails I use: axhakani13@gmail.com <br>
 or at: anja@ura.deisgn
 #### Other social networks: 
 [Twitter](https://twitter.com/anjaxhakani "twitter") <br>
