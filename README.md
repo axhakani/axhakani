@@ -2,7 +2,7 @@
 ### You can also call me njanja :blush: ###
 ### Currently working as a UX Researcher and SysAdmin at [Ura Design](http://https://ura.design// "Ura") ###
 Feel free to reach out at THE ONLY emails I use: axhakani13@gmail.com <br>
-or at: anja@ura.deisgn
+or at: anja@ura.design
 #### Other social networks: 
 [Twitter](https://twitter.com/anjaxhakani "twitter") <br>
 [LinkedIn](https://www.linkedin.com/in/anja-xhakani-0a78b718a/ "linkedin") <br>
