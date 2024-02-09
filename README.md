@@ -12,6 +12,7 @@ My [personal website](https://axhakani.github.io/ "website") hosted on GitHub :-
 <details>
 <summary>Projects I worked on recently:</summary>
 <br>
+  - Rallly <br>
 - Briar <br>
 - CalyxOS Accessibility Audit <br>
 - Thunderbird PGP Encryption 
