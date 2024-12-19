@@ -15,7 +15,9 @@ My [personal website](https://axhakani.github.io/ "website") hosted on GitHub :-
   - Rallly <br>
 - Briar <br>
 - CalyxOS Accessibility Audit <br>
-- Thunderbird PGP Encryption 
+- Thunderbird PGP Encryption <br>
+- OpenWisp <br>
+- Mailvelope 
 </details>
 
 *Not as polished with the green dots down here ↓ but I'm working on it.* Thanks :grin: :octocat:
